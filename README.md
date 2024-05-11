@@ -26,6 +26,8 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 | Continuous Learning and Improvement | Learns from user interactions and feedback to enhance performance over time.                |
 | Offline Capability          | Provides basic functionalities even when the device is offline.                                 |
 
+![VAI UI](VAI.png)
+
 ## How It Works
 1. **Speech Recognition:** Listens for user commands through the browser's speech recognition capabilities.
 2. **Command Processing:** Analyzes the transcribed text to identify the user's intent and extract relevant parameters.
