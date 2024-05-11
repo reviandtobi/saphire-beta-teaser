@@ -49,13 +49,13 @@ Saphire is currently **==UNDER DEVELOPMENT==**, it is far from perfect and veery
 
 ## Vocab
 NLP
-: Uses JSON, with simple inputs, mainly most stable in voice input.
+: Uses JSON, with simple inputs, mainly most stable in voice input. :
 Google search
-: Uses Google APIs, not recommended for full searches, but only for tips.
+: Uses Google APIs, not recommended for full searches, but only for tips. :
 Definitions
-: Uses definitions API, is limited, highly by typos.
+: Uses definitions API, is limited, highly by typos. :
 Local weather
-: Uses local are by collecting users geolocation.
+: Uses local are by collecting users geolocation. :
 
 ## Conclusion
 > The Voice Assistant is a versatile tool that enhances user interaction with digital devices through natural language processing and speech synthesis. By providing hands-free operation and a wide range of functionalities, it simplifies everyday tasks and improves accessibility for users of all abilities.
