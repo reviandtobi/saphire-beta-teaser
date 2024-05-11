@@ -18,17 +18,17 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 
 ## Features
 
-- [X] Simple NLP - <strong style="color:green;">Done</strong> `Can be improved`
-- [ ] Google search - <strong style="color:yellow;">In progress</strong>
-- [ ] Mathematics - <strong style="color:red;">Not done</strong>
-- [X] Definitions - <strong style="color:green;">Done</strong>
-- [ ] Calls, SMS, and contacts - <strong style="color:yellow;">In progress</strong>
-- [ ] Accounts and sign in data - <strong style="color:red;">Not done</strong>
-- [X] Local and worldwide weather - <strong style="color:green">Done</strong>
-- [X] Colored themes - <strong style="color:green;">Done</strong> `Can be improved`
-- [ ] Notes and reminders - <strong style="color:red;">Not done</strong>
-- [ ] Customizable language - <strong style="color:yellow">In progress</strong> `Can be improved`
-- [ ] Calendar support - <strong style="color:red">Not done</strong>
+- [X] Simple NLP - <strong style="color:green;text-align:left;">Done</strong> `Can be improved`
+- [ ] Google search - <strong style="color:yellow;text-align:left;">In progress</strong>
+- [ ] Mathematics - <strong style="color:red;text-align:left;">Not done</strong>
+- [X] Definitions - <strong style="color:green;text-align:left;">Done</strong>
+- [ ] Calls, SMS, and contacts - <strong style="color:yellow;text-align:left;">In progress</strong>
+- [ ] Accounts and sign in data - <strong style="color:red;text-align:left;">Not done</strong>
+- [X] Local and worldwide weather - <strong style="color:green;text-align:left;">Done</strong>
+- [X] Colored themes - <strong style="color:green;text-align:left;">Done</strong> `Can be improved`
+- [ ] Notes and reminders - <strong style="color:red;text-align:left;">Not done</strong>
+- [ ] Customizable language - <strong style="color:yellow;text-align:left;">In progress</strong> `Can be improved`
+- [ ] Calendar support - <strong style="color:red;text-align:left;">Not done</strong>
 
 ## Use Cases
 - **Daily Assistance:** Users can rely on the Voice Assistant for everyday tasks such as checking the weather, making calls, and searching the web hands-free.
@@ -47,4 +47,4 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 3. **Integration with Smart Home Devices:** Extend compatibility with smart home devices, enabling users to control their environment through voice commands.
 
 ## Conclusion
-The Voice Assistant is a versatile tool that enhances user interaction with digital devices through natural language processing and speech synthesis. By providing hands-free operation and a wide range of functionalities, it simplifies everyday tasks and improves accessibility for users of all abilities.
+> The Voice Assistant is a versatile tool that enhances user interaction with digital devices through natural language processing and speech synthesis. By providing hands-free operation and a wide range of functionalities, it simplifies everyday tasks and improves accessibility for users of all abilities.
