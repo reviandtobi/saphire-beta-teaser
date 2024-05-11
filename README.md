@@ -10,6 +10,22 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 4. **Integration with APIs:** Interfaces with external APIs for retrieving weather data and conducting web searches.
 5. **Natural Language Understanding:** Employs advanced algorithms to interpret natural language queries and provide relevant responses.
 
+### Current features:
+
+| Feature                     | Description                                                                                   |
+|-----------------------------|-----------------------------------------------------------------------------------------------|
+| Speech Recognition          | Allows users to input commands and queries via voice.                                         |
+| Text-to-Speech (TTS)        | Provides audible responses to users' queries.                                                  |
+| Multimodal Interaction      | Supports both text input and voice input for interaction.                                      |
+| Personalization             | Allows customization of the selected language for interaction.                                 |
+| Task Automation             | Executes tasks such as making phone calls, getting weather updates, etc. based on user commands.|
+| Knowledge Base Integration  | Integrates with APIs to fetch weather data, search results, and word definitions.              |
+| Context Awareness           | Uses context to provide relevant responses based on user queries.                               |
+| Integration with Third-Party Services | Utilizes third-party APIs for various functionalities such as weather and search.           |
+| Accessibility Features      | Includes features like internet connection status alerts.                                      |
+| Continuous Learning and Improvement | Learns from user interactions and feedback to enhance performance over time.                |
+| Offline Capability          | Provides basic functionalities even when the device is offline.                                 |
+
 ## How It Works
 1. **Speech Recognition:** Listens for user commands through the browser's speech recognition capabilities.
 2. **Command Processing:** Analyzes the transcribed text to identify the user's intent and extract relevant parameters.
@@ -27,7 +43,7 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 3. **Convenience:** Offers hands-free operation, allowing users to perform tasks while engaged in other activities or when their hands are occupied.
 4. **Personalization:** Supports multiple languages and customizable settings, catering to diverse user preferences and needs.
 
-## Future Enhancements
+## Progress
 1. **Expanded Command Set:** Integrate additional commands and functionalities to broaden the scope of tasks the Voice Assistant can perform.
 2. **Improved Natural Language Processing:** Enhance the assistant's ability to understand complex queries and provide more accurate responses.
 
@@ -58,7 +74,7 @@ Definitions
 : Uses definitions API, is limited, highly by typos.
 
 Local weather
-: Uses local are by collecting users geolocation.
+: Uses local area by collecting users geolocation.
 
 ## Conclusion
 > The Voice Assistant is a versatile tool that enhances user interaction with digital devices through natural language processing and speech synthesis. By providing hands-free operation and a wide range of functionalities, it simplifies everyday tasks and improves accessibility for users of all abilities.
