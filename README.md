@@ -18,17 +18,17 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 
 ## Features
 
-- [X] Simple NLP - <strong style="color:green;text-align:left;">Done</strong> `Can be improved`
-- [ ] Google search - <strong style="color:yellow;text-align:left;">In progress</strong>
-- [ ] Mathematics - <strong style="color:red;text-align:left;">Not done</strong>
-- [X] Definitions - <strong style="color:green;text-align:left;">Done</strong>
-- [ ] Calls, SMS, and contacts - <strong style="color:yellow;text-align:left;">In progress</strong>
-- [ ] Accounts and sign in data - <strong style="color:red;text-align:left;">Not done</strong>
-- [X] Local and worldwide weather - <strong style="color:green;text-align:left;">Done</strong>
-- [X] Colored themes - <strong style="color:green;text-align:left;">Done</strong> `Can be improved`
-- [ ] Notes and reminders - <strong style="color:red;text-align:left;">Not done</strong>
-- [ ] Customizable language - <strong style="color:yellow;text-align:left;">In progress</strong> `Can be improved`
-- [ ] Calendar support - <strong style="color:red;text-align:left;">Not done</strong>
+- [X] Simple NLP - <strong style="color:green;text-align:right;">Done</strong> `Can be improved`
+- [ ] Google search - <strong style="color:yellow;text-align:right;">In progress</strong>
+- [ ] Mathematics - <strong style="color:red;text-align:right;">Not done</strong>
+- [X] Definitions - <strong style="color:green;text-align:right;">Done</strong>
+- [ ] Calls, SMS, and contacts - <strong style="color:yellow;text-align:right;">In progress</strong>
+- [ ] Accounts and sign in data - <strong style="color:red;text-align:right;">Not done</strong>
+- [X] Local and worldwide weather - <strong style="color:green;text-align:right;">Done</strong>
+- [X] Colored themes - <strong style="color:green;text-align:right;">Done</strong> `Can be improved`
+- [ ] Notes and reminders - <strong style="color:red;text-align:right;">Not done</strong>
+- [ ] Customizable language - <strong style="color:yellow;text-align:right;">In progress</strong> `Can be improved`
+- [ ] Calendar support - <strong style="color:red;text-align:right;">Not done</strong>
 
 ## Use Cases
 - **Daily Assistance:** Users can rely on the Voice Assistant for everyday tasks such as checking the weather, making calls, and searching the web hands-free.
