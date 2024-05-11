@@ -31,25 +31,31 @@ This Voice Assistant is a sophisticated tool designed to enhance user interactio
 1. **Expanded Command Set:** Integrate additional commands and functionalities to broaden the scope of tasks the Voice Assistant can perform.
 2. **Improved Natural Language Processing:** Enhance the assistant's ability to understand complex queries and provide more accurate responses.
 
-- [X] Simple NLP[^1] - <strong style="color:green;text-align:right;">Done</strong> `Can be improved`
-- [ ] Google search[^2] - <strong style="color:yellow;text-align:right;">In progress</strong>
+- [X] Simple NLP - <strong style="color:green;text-align:right;">Done</strong> `Can be improved`
+- [ ] Google search - <strong style="color:yellow;text-align:right;">In progress</strong>
 - [ ] Mathematics - <strong style="color:red;text-align:right;">Not done</strong>
-- [X] Definitions[^3] - <strong style="color:green;text-align:right;">Done</strong>
+- [X] Definitions - <strong style="color:green;text-align:right;">Done</strong>
 - [ ] Calls, SMS, and contacts - <strong style="color:yellow;text-align:right;">In progress</strong>
 - [ ] Accounts and sign in data - <strong style="color:red;text-align:right;">Not done</strong>
-- [X] Local and worldwide weather[^4] - <strong style="color:green;text-align:right;">Done</strong>
+- [X] Local and worldwide weather - <strong style="color:green;text-align:right;">Done</strong>
 - [X] Colored themes - <strong style="color:green;text-align:right;">Done</strong> `Can be improved`
 - [ ] Notes and reminders - <strong style="color:red;text-align:right;">Not done</strong>
 - [ ] Customizable language - <strong style="color:yellow;text-align:right;">In progress</strong> `Can be improved`
 - [ ] Calendar support - <strong style="color:red;text-align:right;">Not done</strong>
 
-# IMPORTANT
+## IMPORTANT
 
 Saphire is currently **==UNDER DEVELOPMENT==**, it is far from perfect and veery insecure, so for the time being it is highly recommended that you **==DO NOT==** use the product whatsoever. Thank you.<3
 
+## Vocab
+NLP
+: Uses JSON, with simple inputs, mainly most stable in voice input.
+Google search
+: Uses Google APIs, not recommended for full searches, but only for tips.
+Definitions
+: Uses definitions API, is limited, highly by typos.
+Local weather
+: Uses local are by collecting users geolocation.
+
 ## Conclusion
 > The Voice Assistant is a versatile tool that enhances user interaction with digital devices through natural language processing and speech synthesis. By providing hands-free operation and a wide range of functionalities, it simplifies everyday tasks and improves accessibility for users of all abilities.
-[^1]: Uses JSON, with simple inputs, mainly most stable in voice input.
-[^2]: Uses Google APIs, not recommended for full searches, but only for tips.
-[^3]: Uses definitions API, is limited, highly by typos.
-[^4]: Uses local are by collecting users geolocation.
